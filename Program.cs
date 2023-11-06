@@ -8,6 +8,7 @@ namespace App2
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Ни как не удается настроить запуск приложения в консоли VSCode");
             Console.WriteLine("Вот теперь всё получилось. Причина была в том, что нужно переменную окружения добавить путь .Net SDK");
+            Console.WriteLine("Продолжу работу после того, как проверю работу гита.");
             Console.ReadKey();
         }
     }
