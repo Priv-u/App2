@@ -1,0 +1,14 @@
+E:\Projects\C#\2023\App2\bin\Debug\net7.0\App2.exe
+E:\Projects\C#\2023\App2\bin\Debug\net7.0\App2.deps.json
+E:\Projects\C#\2023\App2\bin\Debug\net7.0\App2.runtimeconfig.json
+E:\Projects\C#\2023\App2\bin\Debug\net7.0\App2.dll
+E:\Projects\C#\2023\App2\bin\Debug\net7.0\App2.pdb
+E:\Projects\C#\2023\App2\obj\Debug\net7.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\2023\App2\obj\Debug\net7.0\App2.AssemblyInfoInputs.cache
+E:\Projects\C#\2023\App2\obj\Debug\net7.0\App2.AssemblyInfo.cs
+E:\Projects\C#\2023\App2\obj\Debug\net7.0\App2.csproj.CoreCompileInputs.cache
+E:\Projects\C#\2023\App2\obj\Debug\net7.0\App2.dll
+E:\Projects\C#\2023\App2\obj\Debug\net7.0\refint\App2.dll
+E:\Projects\C#\2023\App2\obj\Debug\net7.0\App2.pdb
+E:\Projects\C#\2023\App2\obj\Debug\net7.0\App2.genruntimeconfig.cache
+E:\Projects\C#\2023\App2\obj\Debug\net7.0\ref\App2.dll
